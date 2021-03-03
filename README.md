@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/auth0-blog/nextjs-passport)
+
 # Next.js Authentication Tutorial
 
 So you are thinking about developing your next great application with Next.js, huh? Or maybe you already started developing it and now you want to add authentication to your app. Either way, you are in the right place. If you are just starting to build your app with Next.js, now it is a good time to learn how to add authentication to it. If you already have something going on, it is never late to add authentication the right way.
